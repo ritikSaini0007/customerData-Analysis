@@ -1,6 +1,3 @@
-Customer Shopping Behavior Analysis
-📌 Project Definition
-
 Customer Shopping Behavior Analysis ek data analytics project hai jisme customer ke purchasing data ko analyze kiya jata hai taaki unke buying patterns, preferences, aur spending habits ko samjha ja sake. Iska main goal business ko data-driven decisions lene me help karna hai.
 
 📖 About the Project
