@@ -23,3 +23,6 @@ Data Cleaning (Python)
 Data Analysis (SQL)
 Data Visualization (Power BI)
 Insights & Recommendations
+
+This is SS of Dashboard
+<img width="1344" height="734" alt="Customer_Behavior_Dashboard_SS" src="https://github.com/user-attachments/assets/9d979021-684b-4fe7-be0b-f0237a8a9c10" />
