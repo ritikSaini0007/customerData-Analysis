@@ -30,4 +30,4 @@ Insights & Recommendations
 The dashboard provides a clear overview of customer demographics, purchasing trends, product performance, spending behavior, and key business metrics, enabling stakeholders to make informed decisions quickly.
 
 Dashboard Screenshot Attached Below.
-<img width="1344" height="734" alt="Customer_Behavior_Dashboard_SS" src="https://github.com/user-attachments/assets/9d979021-684b-4fe7-be0b-f0237a8a9c10" />
+<img width="1337" height="732" alt="Dashboard_SS" src="https://github.com/user-attachments/assets/c0356260-656a-4c4a-8a71-1ff0f7714c28" />
